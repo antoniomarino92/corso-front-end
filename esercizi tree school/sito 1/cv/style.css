@@ -1,0 +1,47 @@
+@media screen and (min-width: 480px) {
+
+body{
+    background-image: url(img/desktop-wallpaper-45-website-backgrounds-2560x1600-for-your-mobile-tablet-webpage.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-weight: bold;
+}
+  }
+
+h1{
+    margin-left: 636px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 200;
+}
+
+img{
+    width: 150px;
+    margin-left: 626px;
+    
+    
+}
+
+h3{
+    color: white;
+    background-color: darkblue;
+    font-size: larger;
+    font-weight: 400;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#email:active{
+    color:yellow;
+    text-decoration: underline;
+  
+}
+
+#email:hover{
+    cursor: pointer;
+    text-transform: uppercase;
+
+
+}

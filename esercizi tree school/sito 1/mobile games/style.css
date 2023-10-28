@@ -1,0 +1,29 @@
+body{
+    background-image: url(img/3d-illustration-black-abstract-art-style-design-website-backgrounds-advertising_258743-185.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    ;
+}
+
+
+  .navbar {
+    display: flex;
+    flex-direction: column;
+    background-color: #333;
+    color: #fff;
+  }
+  
+  .navbar a {
+    padding: 10px;
+  
+    text-decoration: double;
+    color: #fcfcfc;
+    transition: background-color 0.1s;
+  }
+  
+  .navbar a:hover {
+    background-color: gray;
+    cursor: pointer;
+  }
+  

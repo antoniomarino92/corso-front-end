@@ -1,0 +1,79 @@
+@media screen and (min-width: 480px) {
+    body {
+        background-color: blue; 
+        font-size: 18px;   
+    }
+    
+
+body{
+    background-image:url(img/volume-abstract-graphic-loneliness-desk_1258-258.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+    
+    
+  
+          
+    }
+
+
+#titolo-pagina{
+    margin-left: 500px;
+}
+
+#navbar{
+    display: flex;
+   flex-direction:column;
+   border-color: black;
+}
+
+.link{
+text-decoration: underline;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#h-due{
+    margin-left: 600px;
+}
+
+#paragrafo-uno{
+    margin-left:200px ;
+}
+
+#h-quattro{
+    margin-left: 560px;
+}
+
+#registrazione{
+    color:black;
+    display: flex;
+    justify-content: center;
+}
+
+#opzioni{
+   margin-left: 650px;
+}
+
+#lista-di-abiti{
+    color: black;
+    text-decoration: solid;
+    text-overflow: inherit;
+}
+
+ }
+
+.bottone-link{
+    text-decoration: underline;
+    text-transform: uppercase;
+    text-overflow: initial;
+    color: black;
+}
+
+#footer{
+    margin-left: 600px;
+ 
+}
+
+
+
+
